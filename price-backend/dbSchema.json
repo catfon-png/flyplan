@@ -1,0 +1,38 @@
+{
+    "trips": [
+      {
+        "tripId": 1,
+        "tripName": "Trip with my mom",
+        "itineraries": [
+          {
+            "itineraryId": "8934584953u845",
+            "origin": {
+                "cityName": "Amsterdam",
+                "IATA": "AMS"
+            },
+            "destination": {
+                "cityname": "Paris",
+                "IATA": "PRS"
+            },
+            "airline": "KLM",
+            "departureTime": "10:00",
+            "arrivalTime": "12:00",
+            "priceHistory": [
+              {
+                "timeStamp": "11:00 AM 10-02-2023",
+                "price": 120
+              },
+              {
+                "timeStamp": "11:00 AM 09-02-2023",
+                "price": 105
+              },
+                          {
+                "timeStamp": "11:00 AM 08-02-2023",
+                "price": 90
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

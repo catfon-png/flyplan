@@ -1,0 +1,13 @@
+/* .plane-icon {
+    animation: movePlane ${percentLoaded / 100}s linear;
+  }
+  
+  @keyframes movePlane {
+    from {
+      transform: translateX(0%);
+    }
+    to {
+      transform: translateX(100%);
+    } */
+  /* } */
+  
